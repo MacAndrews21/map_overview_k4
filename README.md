@@ -6,7 +6,7 @@ Das Kartenwerk gliedert sich in __4 Sektoren__ die gegen den  Uhrzeigersinn um d
 0 -> Zeile
 1 -> Spalte
 Innerhalb einer __Spalte__ und __Zeile__ wird wiederum in die Kartenblätter __1__, __2__, __3__, __4__, __5__, __6__, __7__ und __8__ aufgeteilt.  
-
+![overview](https://github.com/MacAndrews21/map_overview_k4/blob/master/2015-08_02-Doku-K4.png) 
 Das Pythonskript verfährt folgendermaßen:
 
 --------------------------------------------------------------
